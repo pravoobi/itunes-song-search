@@ -1,0 +1,10 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":"73773585", "collectionId":73550192, "trackId":73549990, "artistName":"Fat Hed, H., Kool Keith & KutMasta Kurt", "collectionName":"Diesel Truckers", "trackName":"Mental Side Effects (Featuring Fat Hed & H)", "collectionCensoredName":"Diesel Truckers", "trackCensoredName":"Mental Side Effects (Featuring Fat Hed & H)", "collectionArtistId":"6199418", "collectionArtistName":"Kool Keith & KutMasta Kurt", "collectionArtistViewUrl":"https://itunes.apple.com/us/artist/kool-keith/6199418?uo=4", "artistViewUrl":"https://itunes.apple.com/us/artist/fat-hed/73773585?uo=4", "collectionViewUrl":"https://itunes.apple.com/us/album/mental-side-effects-featuring-fat-hed-h/73550192?i=73549990&uo=4", "trackViewUrl":"https://itunes.apple.com/us/album/mental-side-effects-featuring-fat-hed-h/73550192?i=73549990&uo=4", "previewUrl":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/52/8f/b8/mzm.djnsdhhm.aac.p.m4a", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Music/v4/bf/e0/1e/bfe01e9a-bc34-5eb4-634d-5aa3a9806d95/source/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Music/v4/bf/e0/1e/bfe01e9a-bc34-5eb4-634d-5aa3a9806d95/source/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music/v4/bf/e0/1e/bfe01e9a-bc34-5eb4-634d-5aa3a9806d95/source/100x100bb.jpg", "collectionPrice":9.99, "trackPrice":-1.00, "releaseDate":"2004-08-01T07:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":15, "trackNumber":5, "trackTimeMillis":264733, "country":"USA", "currency":"USD", "primaryGenreName":"Hip-Hop/Rap", "isStreamable":true}]
+}
+
+
